@@ -4,7 +4,7 @@
 
 SmartCCTV is an intelligent surveillance system designed to provide enhanced security and monitoring capabilities. Utilizing advanced video analytics, SmartCCTV offers features such as real-time object detection, facial recognition, and anomaly detection. This application transforms standard CCTV footage into actionable insights, enabling proactive security measures and efficient incident response. Ideal for both residential and commercial use, SmartCCTV provides a smart, reliable, and user-friendly solution for all your surveillance needs.
 
-<img width="998" height="669" alt="image" src="https://github.com/user-attachments/assets/0e3d41ef-a132-424b-8e88-45aaf32a494b" />
+<img width="850" height="650" alt="image" src="https://github.com/user-attachments/assets/0e3d41ef-a132-424b-8e88-45aaf32a494b" />
 
 ## 🛠️ Tech Stack
 
