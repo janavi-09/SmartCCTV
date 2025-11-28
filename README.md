@@ -1,2 +1,1 @@
-# SmartCCTV
-Smart CCTV Camera Application
+My Smart CCTV Application!!
